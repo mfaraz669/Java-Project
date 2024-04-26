@@ -17,5 +17,10 @@ public class ShortHand {
         a = a + x3;
         System.out.println(a);
 
+        //short hand operator below.
+        int x4 = input.nextInt();
+        a += x4;
+        System.out.println(a);
+
     }
 }
